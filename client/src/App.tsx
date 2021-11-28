@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <header>
-       <h1>Stock & Crypto Markets</h1>
+       <h1>Crypto Watch</h1>
       </header>
       <main>
         <TopCrypto />
